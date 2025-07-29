@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanessaEzeoke
-- 👀 I’m interested in Data analytics 
+- 👀 I am a Data Scientist with experience in Financial data 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on AI driven solutions
 - 📫 How to reach me: vanessa.ezeoke@gmail.com
